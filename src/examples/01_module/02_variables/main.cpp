@@ -2,6 +2,13 @@
 
 int main() 
 {
+	string name = "Tom";
+	
+	
+	
+	
+	
+	
 	display_number(10);
 
 	int num = 5;

@@ -203,6 +203,12 @@ cw_01_library_BINARY_DIR:STATIC=C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build
 cw_01_library_SOURCE_DIR:STATIC=C:/David/2/ACC/SEM2/COSC1337/Class Git/src/classwork/01_assign
 
 //Value Computed by CMake
+cw_02_library_BINARY_DIR:STATIC=C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/classwork/02_assign
+
+//Value Computed by CMake
+cw_02_library_SOURCE_DIR:STATIC=C:/David/2/ACC/SEM2/COSC1337/Class Git/src/classwork/02_assign
+
+//Value Computed by CMake
 hw_01_library_BINARY_DIR:STATIC=C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/homework/01_expressions
 
 //Value Computed by CMake
@@ -297,7 +303,7 @@ CMAKE_MODULE_LINKER_FLAGS_RELWITHDEBINFO-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_MT
 CMAKE_MT-ADVANCED:INTERNAL=1
 //number of local generators
-CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=20
+CMAKE_NUMBER_OF_MAKEFILES:INTERNAL=18
 //Platform information initialized
 CMAKE_PLATFORM_INFO_INITIALIZED:INTERNAL=1
 //ADVANCED property for variable: CMAKE_RC_COMPILER
