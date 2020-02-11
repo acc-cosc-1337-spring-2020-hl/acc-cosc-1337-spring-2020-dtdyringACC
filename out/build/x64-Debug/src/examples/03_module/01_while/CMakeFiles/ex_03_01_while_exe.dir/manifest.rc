@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/examples/03_module/01_while/CMakeFiles/ex_03_01_while_exe.dir/embed.manifest"
