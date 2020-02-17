@@ -11,3 +11,4 @@ TEST_CASE("verify sum_of_squares function")
 	REQUIRE(sum_of_squares(4) == 30);
 	REQUIRE(sum_of_squares(2) == 5);
 }
+

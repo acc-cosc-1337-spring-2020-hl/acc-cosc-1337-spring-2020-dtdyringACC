@@ -7,11 +7,6 @@ C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/CMakeFiles/edit_c
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/classwork/CMakeFiles/rebuild_cache.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/classwork/CMakeFiles/test.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/classwork/CMakeFiles/edit_cache.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/classwork/02_assign/CMakeFiles/cw_02_library.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/classwork/02_assign/CMakeFiles/cw_02_exe.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/classwork/02_assign/CMakeFiles/rebuild_cache.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/classwork/02_assign/CMakeFiles/test.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/classwork/02_assign/CMakeFiles/edit_cache.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/classwork/03_assign/CMakeFiles/rebuild_cache.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/classwork/03_assign/CMakeFiles/test.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/classwork/03_assign/CMakeFiles/cw_03_library.dir
@@ -95,10 +90,6 @@ C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/CMakeFiles/edit_
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/classwork_test/CMakeFiles/rebuild_cache.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/classwork_test/CMakeFiles/test.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/classwork_test/CMakeFiles/edit_cache.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/classwork_test/02_assign_test/CMakeFiles/cw_02_tests.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/classwork_test/02_assign_test/CMakeFiles/rebuild_cache.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/classwork_test/02_assign_test/CMakeFiles/test.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/classwork_test/02_assign_test/CMakeFiles/edit_cache.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/classwork_test/03_assign_test/CMakeFiles/cw_03_tests.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/classwork_test/03_assign_test/CMakeFiles/rebuild_cache.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/classwork_test/03_assign_test/CMakeFiles/test.dir
