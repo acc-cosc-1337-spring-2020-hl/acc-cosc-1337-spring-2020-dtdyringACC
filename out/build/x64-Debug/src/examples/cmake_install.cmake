@@ -34,7 +34,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/examples/02_module/cmake_install.cmake")
   include("C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/examples/03_module/cmake_install.cmake")
 
 endif()

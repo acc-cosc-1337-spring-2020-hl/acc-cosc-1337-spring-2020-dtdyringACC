@@ -358,3 +358,12 @@
 11	817	603356301	test/examples_test/02_module_test/ex_02_tests.exe	72cd3bfe0a665f8c
 2	1300	603361009	build.ninja	b13c5e595daa1bd
 1	993	603361112	build.ninja	b13c5e595daa1bd
+9	2812	603687170	test/examples_test/03_module_test/CMakeFiles/ex_03_tests.dir/03_module_tests.cpp.obj	30c19dc753306725
+2813	3210	603687171	test/examples_test/03_module_test/ex_03_tests.exe	c185b6f9afc91903
+3	950	603688242	build.ninja	b13c5e595daa1bd
+6	596	603688243	src/examples/03_module/06_vectors/CMakeFiles/ex_03_06_exe.dir/main.cpp.obj	4c473ede800fb211
+4	748	603688243	src/examples/03_module/06_vectors/CMakeFiles/ex_03_06_exe.dir/vec.cpp.obj	55ebecadf26ab7a7
+10	755	603688243	src/examples/03_module/06_vectors/CMakeFiles/ex_03_06_library.dir/vec.cpp.obj	8c0bc17982da99d0
+755	786	603688243	src/examples/03_module/06_vectors/ex_03_06_library.lib	37d397f1cd86ad4f
+748	921	603688243	src/examples/03_module/06_vectors/ex_03_06_exe.exe	3f5b19774e839140
+786	951	603688243	test/examples_test/03_module_test/ex_03_tests.exe	c185b6f9afc91903

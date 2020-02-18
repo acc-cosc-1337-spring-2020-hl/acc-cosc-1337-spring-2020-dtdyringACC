@@ -133,18 +133,6 @@
 			"path" : "src/examples/CMakeLists.txt"
 		},
 		{
-			"path" : "src/examples/02_module/CMakeLists.txt"
-		},
-		{
-			"path" : "src/examples/02_module/01_if/CMakeLists.txt"
-		},
-		{
-			"path" : "src/examples/02_module/02_if_else/CMakeLists.txt"
-		},
-		{
-			"path" : "src/examples/02_module/03_switch/CMakeLists.txt"
-		},
-		{
 			"path" : "src/examples/03_module/CMakeLists.txt"
 		},
 		{
@@ -188,9 +176,6 @@
 		},
 		{
 			"path" : "test/examples_test/CMakeLists.txt"
-		},
-		{
-			"path" : "test/examples_test/02_module_test/CMakeLists.txt"
 		},
 		{
 			"path" : "test/examples_test/03_module_test/CMakeLists.txt"
