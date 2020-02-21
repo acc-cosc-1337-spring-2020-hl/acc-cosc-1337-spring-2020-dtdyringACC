@@ -56,11 +56,6 @@ C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/examples/03_modul
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/homework/CMakeFiles/rebuild_cache.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/homework/CMakeFiles/test.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/homework/CMakeFiles/edit_cache.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/homework/02_decisions/CMakeFiles/hw_02_library.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/homework/02_decisions/CMakeFiles/edit_cache.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/homework/02_decisions/CMakeFiles/hw_02_exe.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/homework/02_decisions/CMakeFiles/rebuild_cache.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/homework/02_decisions/CMakeFiles/test.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/homework/03_iteration/CMakeFiles/hw_03_library.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/homework/03_iteration/CMakeFiles/hw_03_exe.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/homework/03_iteration/CMakeFiles/rebuild_cache.dir
@@ -86,7 +81,7 @@ C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/examples_test/03
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/homework_test/CMakeFiles/rebuild_cache.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/homework_test/CMakeFiles/test.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/homework_test/CMakeFiles/edit_cache.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/homework_test/02_decisions_test/CMakeFiles/rebuild_cache.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/homework_test/02_decisions_test/CMakeFiles/test.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/homework_test/02_decisions_test/CMakeFiles/hw_02_tests.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/homework_test/02_decisions_test/CMakeFiles/edit_cache.dir
+C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/homework_test/03_iteration_test/CMakeFiles/hw_03_tests.dir
+C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/homework_test/03_iteration_test/CMakeFiles/rebuild_cache.dir
+C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/homework_test/03_iteration_test/CMakeFiles/test.dir
+C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/homework_test/03_iteration_test/CMakeFiles/edit_cache.dir
