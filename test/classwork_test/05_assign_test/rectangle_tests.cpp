@@ -10,5 +10,5 @@ TEST_CASE("Verify Test Configuration", "verification") {
 TEST_CASE("verify rectangle calculate area")
 {
 	rectangle box(2, 5);
-	REQUIRE(box.get_area == 10);
+	REQUIRE(box.get_area() == 10);
 }
