@@ -1,4 +1,4 @@
-//write include statemetns
+#include "rectangle.h"
 
 /*
 Create a vector of rectangles
@@ -12,6 +12,15 @@ Iterate the vector and display the Area for each Rectangle on one line and the t
 */
 int main()
 {
-	
+	vector<rectangle> boxes{ rectangle(4,5),rectangle(10,10),rectangle(100,10) };
+	int total = 0;
+	for (auto n : boxes)
+	{
+		int currArea = n.get_area();
+		cout << currArea << "\t";
+		total += currArea;
+	}
+	cout << "\n" << total;
+
 	return 0;
 }

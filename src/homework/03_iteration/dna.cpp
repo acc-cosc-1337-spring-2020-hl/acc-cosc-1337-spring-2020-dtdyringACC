@@ -28,3 +28,16 @@ c. return string
 
 */
 
+double get_gc_content(const string& str)
+{
+    return 0.0;
+}
+
+string get_reverse_string(string str)
+{
+}
+
+string get_dna_complement(string str)
+{
+    return string();
+}
