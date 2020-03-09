@@ -2,16 +2,18 @@
 
 int main()
 {
+
+	BankAccount a(50), b(10);
+	//BankAccount c = a + b;
+	display_balance(a);
+	cout<<a;
+
 	vector<BankAccount> accounts{ BankAccount(100), BankAccount(200), BankAccount(300) };
-	int balance = account.get_balance();
-	cout << "Balance: " << balance;
-	try
+
+	for (auto act : accounts)
 	{
-		account.deposit(-10);
-	}
-	catch (InvalidAmount e)
-	{
-		cout << e.get_message();
+		display_balance(act);
+		//cout << "Balance is: " << act.get_balance() << "\n";
 	}
 
 	return 0;

@@ -29,3 +29,30 @@ void BankAccount::withdraw(int amount)
 		balance -= amount;
 	}
 }
+
+//void BankAccount::open(int amount)
+//{
+//
+//}
+
+double BankAccount::rate = init_rate();
+
+void display_balance(const BankAccount& b)
+{
+	cout << "Balance is: " << b.balance << "\n";
+}
+
+std::ostream& operator<<(std::ostream& out, const BankAccount& b)
+{
+	out << "Balance is: " << b.balance << "\n";
+	return out;		
+}
+
+std::istream& operator>>(std::istream& in, BankAccount& b)
+{
+	int amount;
+	cout << "Enter amount to deposite: \n";
+	in >> amount;
+	b.deposit(amount);
+	return in;
+}

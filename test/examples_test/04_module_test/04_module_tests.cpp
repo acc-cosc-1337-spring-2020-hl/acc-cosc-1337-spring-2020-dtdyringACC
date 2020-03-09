@@ -17,3 +17,10 @@ TEST_CASE("Verify Bank Account deposit")
 	account.deposit(50);
 	REQUIRE(account.get_balance() == 200);
 }
+
+TEST_CASE("Verify set & get rate functions")
+{
+	BankAccount account;
+
+	REQUIRE(account.get_rate() == 0.025);
+}
