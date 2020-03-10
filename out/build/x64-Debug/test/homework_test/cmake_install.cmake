@@ -32,3 +32,9 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for each subdirectory.
+  include("C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/homework_test/tic_tac_toe_test/cmake_install.cmake")
+
+endif()
+
