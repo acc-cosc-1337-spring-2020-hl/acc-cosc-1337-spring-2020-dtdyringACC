@@ -9,7 +9,7 @@
 					"childIndexes" : 
 					[
 						1,
-						8
+						7
 					],
 					"minimumCMakeVersion" : 
 					{
@@ -89,10 +89,6 @@
 				},
 				{
 					"build" : "src/homework",
-					"childIndexes" : 
-					[
-						7
-					],
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.8"
@@ -102,27 +98,12 @@
 					"source" : "src/homework"
 				},
 				{
-					"build" : "src/homework/tic_tac_toe",
-					"minimumCMakeVersion" : 
-					{
-						"string" : "3.8"
-					},
-					"parentIndex" : 6,
-					"projectIndex" : 0,
-					"source" : "src/homework/tic_tac_toe",
-					"targetIndexes" : 
-					[
-						3,
-						4
-					]
-				},
-				{
 					"build" : "test",
 					"childIndexes" : 
 					[
+						8,
 						9,
-						10,
-						12
+						11
 					],
 					"minimumCMakeVersion" : 
 					{
@@ -138,7 +119,7 @@
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 8,
+					"parentIndex" : 7,
 					"projectIndex" : 0,
 					"source" : "test/classwork_test"
 				},
@@ -146,13 +127,13 @@
 					"build" : "test/examples_test",
 					"childIndexes" : 
 					[
-						11
+						10
 					],
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 8,
+					"parentIndex" : 7,
 					"projectIndex" : 0,
 					"source" : "test/examples_test"
 				},
@@ -162,7 +143,7 @@
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 10,
+					"parentIndex" : 9,
 					"projectIndex" : 0,
 					"source" : "test/examples_test/04_module_test",
 					"targetIndexes" : 
@@ -172,31 +153,13 @@
 				},
 				{
 					"build" : "test/homework_test",
-					"childIndexes" : 
-					[
-						13
-					],
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.8"
 					},
-					"parentIndex" : 8,
+					"parentIndex" : 7,
 					"projectIndex" : 0,
 					"source" : "test/homework_test"
-				},
-				{
-					"build" : "test/homework_test/tic_tac_toe_test",
-					"minimumCMakeVersion" : 
-					{
-						"string" : "3.8"
-					},
-					"parentIndex" : 12,
-					"projectIndex" : 0,
-					"source" : "test/homework_test/tic_tac_toe_test",
-					"targetIndexes" : 
-					[
-						5
-					]
 				}
 			],
 			"name" : "Debug",
@@ -216,19 +179,14 @@
 						8,
 						9,
 						10,
-						11,
-						12,
-						13
+						11
 					],
 					"name" : "cosc1337",
 					"targetIndexes" : 
 					[
 						0,
 						1,
-						2,
-						3,
-						4,
-						5
+						2
 					]
 				}
 			],
@@ -249,31 +207,10 @@
 					"projectIndex" : 0
 				},
 				{
-					"directoryIndex" : 11,
+					"directoryIndex" : 10,
 					"id" : "ex_04_tests::@a6224bf2190e93d7f735",
 					"jsonFile" : "target-ex_04_tests-Debug-53c30ac5010cc837fc5f.json",
 					"name" : "ex_04_tests",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 7,
-					"id" : "tic_tac_toe_exe::@0f375f8d095c1e385e30",
-					"jsonFile" : "target-tic_tac_toe_exe-Debug-b7b1e9c67ec909310a98.json",
-					"name" : "tic_tac_toe_exe",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 7,
-					"id" : "tic_tac_toe_library::@0f375f8d095c1e385e30",
-					"jsonFile" : "target-tic_tac_toe_library-Debug-2dbfe84a404a5d5cdf2d.json",
-					"name" : "tic_tac_toe_library",
-					"projectIndex" : 0
-				},
-				{
-					"directoryIndex" : 13,
-					"id" : "tic_tac_toe_tests::@d7f7d0a85a58b61fbc93",
-					"jsonFile" : "target-tic_tac_toe_tests-Debug-742cc44b5b990687b957.json",
-					"name" : "tic_tac_toe_tests",
 					"projectIndex" : 0
 				}
 			]

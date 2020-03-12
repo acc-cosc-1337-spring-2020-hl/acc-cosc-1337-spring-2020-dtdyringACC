@@ -21,11 +21,6 @@ C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/examples/04_modul
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/homework/CMakeFiles/rebuild_cache.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/homework/CMakeFiles/test.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/homework/CMakeFiles/edit_cache.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/homework/tic_tac_toe/CMakeFiles/tic_tac_toe_library.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/homework/tic_tac_toe/CMakeFiles/edit_cache.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/homework/tic_tac_toe/CMakeFiles/tic_tac_toe_exe.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/homework/tic_tac_toe/CMakeFiles/rebuild_cache.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/src/homework/tic_tac_toe/CMakeFiles/test.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/CMakeFiles/rebuild_cache.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/CMakeFiles/test.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/CMakeFiles/edit_cache.dir
@@ -42,7 +37,3 @@ C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/examples_test/04
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/homework_test/CMakeFiles/rebuild_cache.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/homework_test/CMakeFiles/test.dir
 C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/homework_test/CMakeFiles/edit_cache.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/homework_test/tic_tac_toe_test/CMakeFiles/rebuild_cache.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/homework_test/tic_tac_toe_test/CMakeFiles/test.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/homework_test/tic_tac_toe_test/CMakeFiles/tic_tac_toe_tests.dir
-C:/David/2/ACC/SEM2/COSC1337/Class Git/out/build/x64-Debug/test/homework_test/tic_tac_toe_test/CMakeFiles/edit_cache.dir

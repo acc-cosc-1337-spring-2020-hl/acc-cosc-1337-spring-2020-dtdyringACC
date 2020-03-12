@@ -34,5 +34,16 @@ int main()
 	{
 		cout << e.get_message();
 	}
+
+
+	do
+	{
+		int pos;
+		cout << "position: ";
+		cin >> pos;
+		game.mark_board(pos);
+		game.display_board();
+
+	} while (!game.game_over());
 	return 0;
 }
